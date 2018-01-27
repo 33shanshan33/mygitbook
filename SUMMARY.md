@@ -7,4 +7,7 @@
   * [vuex](vuex.md)
 * [webpack](hello.md)
   * webpack基础
+* es6
+* [优秀网站记录](notes.md)
+  * [网址](notes/wang-zhi.md)
 
